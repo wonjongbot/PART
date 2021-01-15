@@ -1,0 +1,10 @@
+mjd=59221.9153032
+dev_args=
+rf_gain=10.0
+if_gain=20.0
+bb_gain=20.0
+frequency=1420000000.0
+bandwidth=2000000.0
+channels=2048
+t_sample=1.0
+duration=120.0
